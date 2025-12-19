@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!--영상 분석 AI를 제작하기 위해 깃허브를 사용합니다
 **lavcca/lavcca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
